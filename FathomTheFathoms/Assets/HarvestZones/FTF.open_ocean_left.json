@@ -1,0 +1,12 @@
+{
+    "location": {
+        "x": -450.0,
+        "y": 0.0,
+        "z": 0
+    },
+    "colliderType": "SPHERE",
+    "radius": 162.5,
+    "harvestableItems": [ "FTF.pyrosome","FTF.pyrosomeA1","FTF.pyrosomeA2" ],
+    "day": true,
+    "night": true
+}

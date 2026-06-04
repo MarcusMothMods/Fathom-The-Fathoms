@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 516.071,
+        "y": 0.0,
+        "z": -362.213
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "FTF.tigershark" ],
+    "startStock": 1,
+    "maxStock": 3,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": -43.714,
+        "y": 0.0,
+        "z": 217.361
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "FTF.seahorse" ],
+    "startStock": 2,
+    "maxStock": 6,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "FTF.pyrosome.name",
+  "itemDescriptionKey": "FTF.pyrosome.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_giantpyrosome",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 125,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 145,
+  "dimensions": [
+	"X   ",
+	"XXXX",
+	"   X"
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 15,
+  "maxSizeCentimeters": 30,
+  "harvestMinigameType": "FISHING_BALL_CATCHER",
+  "perSpotMin": 2,
+  "perSpotMax": 3,
+  "harvestPOICategory": "FISH_LARGE",
+  "harvestableType": "OCEANIC",
+  "harvestDifficulty": "HARD",
+  "aberrations": ["FTF.pyrosomeA1","FTF.pyrosomeA2"],
+  "canBeCaughtByRod": false,
+  "canBeCaughtByNet": true
+}
+

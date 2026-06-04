@@ -1,0 +1,43 @@
+﻿{
+  "itemNameKey": "FTF.blueringedoctopusA1.name",
+  "itemDescriptionKey": "FTF.blueringedoctopusA1.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_splitoctopus",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 15.5,
+  "dimensions": [
+	"X ",
+	"XX",
+	"X "
+  ],
+  "zonesFoundIn": "STELLAR_BASIN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 58,
+  "maxSizeCentimeters": 300,
+  "harvestMinigameType": "FISHING_DIAMOND",
+  "perSpotMin": 2,
+  "perSpotMax": 4,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "HARD",
+  "isAberration": true,
+  "nonAberrationParent": "FTF.blueringedoctopus",
+  "canBeCaughtByRod": false,
+  "canBeCaughtByPot": true,
+  "canBeCaughtByNet": false
+}
+

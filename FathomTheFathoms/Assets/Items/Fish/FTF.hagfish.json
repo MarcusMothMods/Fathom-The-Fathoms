@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "FTF.hagfish.name",
+  "itemDescriptionKey": "FTF.hagfish.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_hagfish",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 125,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 46,
+  "dimensions": [
+    "XXX",
+	"XXX"
+  ],
+  "zonesFoundIn": "DEVILS_SPINE",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 48,
+  "maxSizeCentimeters": 127,
+  "harvestMinigameType": "FISHING_BALL_CATCHER",
+  "perSpotMin": 2,
+  "perSpotMax": 4,
+  "harvestPOICategory": "FISH_LARGE",
+  "harvestableType": "HADAL",
+  "harvestDifficulty": "HARD",
+  "aberrations": ["FTF.hagfishA1"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": false
+}
+

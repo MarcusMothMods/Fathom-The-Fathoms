@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "FTF.tigershark.name",
+  "itemDescriptionKey": "FTF.tigershark.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_tigershark",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 125,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 135,
+  "dimensions": [
+    "XXXXX",
+	"XXXXX"
+  ],
+  "zonesFoundIn": "GALE_CLIFFS",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 35,
+  "maxSizeCentimeters": 47,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 1,
+  "perSpotMax": 3,
+  "harvestPOICategory": "FISH_LARGE",
+  "harvestableType": "OCEANIC",
+  "harvestDifficulty": "HARD",
+  "aberrations": ["FTF.tigersharkA1"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": false
+}
+

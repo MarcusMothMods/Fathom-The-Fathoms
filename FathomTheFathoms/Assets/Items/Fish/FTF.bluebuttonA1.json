@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "FTF.bluebuttonA1.name",
+  "itemDescriptionKey": "FTF.bluebuttonA1.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_temptingbutton",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 35,
+  "dimensions": [
+    "XX",
+	"XX"
+  ],
+  "zonesFoundIn": "STELLAR_BASIN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 35,
+  "maxSizeCentimeters": 47,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 1,
+  "perSpotMax": 3,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "SHALLOW",
+  "harvestDifficulty": "HARD",
+  "isAberration": true,
+  "nonAberrationParent": "FTF.bluebutton",
+  "canBeCaughtByRod": false,
+  "canBeCaughtByNet": true
+}
+

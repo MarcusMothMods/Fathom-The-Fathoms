@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 581.149,
+        "y": 0.0,
+        "z": -560.721
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "FTF.blackseahare" ],
+    "startStock": 1,
+    "maxStock": 3,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

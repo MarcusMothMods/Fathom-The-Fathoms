@@ -1,0 +1,42 @@
+﻿{
+  "itemNameKey": "FTF.manowarA1.name",
+  "itemDescriptionKey": "FTF.manowarA1.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_mansgreed",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 105,
+  "dimensions": [
+	"XX",
+	"X ",
+	"X "
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 58,
+  "maxSizeCentimeters": 300,
+  "harvestMinigameType": "FISHING_DIAMOND",
+  "perSpotMin": 3,
+  "perSpotMax": 6,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "OCEANIC",
+  "harvestDifficulty": "HARD",
+  "isAberration": true,
+  "nonAberrationParent": "FTF.manowar",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": false
+}
+

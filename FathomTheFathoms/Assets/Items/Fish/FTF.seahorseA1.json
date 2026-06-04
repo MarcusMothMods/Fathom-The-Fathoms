@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "FTF.seahorseA1.name",
+  "itemDescriptionKey": "FTF.seahorseA1.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_desacratedseahorse",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 25.3,
+  "dimensions": [
+    "X",
+	"X"
+  ],
+  "zonesFoundIn": "THE_MARROWS",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 5,
+  "maxSizeCentimeters": 17,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 2,
+  "perSpotMax": 6,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "EASY",
+  "isAberration": true,
+  "nonAberrationParent": "FTF.seahorse",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

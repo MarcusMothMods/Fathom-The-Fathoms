@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 868.623,
+        "y": 0.0,
+        "z": 299.524
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "FTF.hagfish" ],
+    "startStock": 2,
+    "maxStock": 4,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

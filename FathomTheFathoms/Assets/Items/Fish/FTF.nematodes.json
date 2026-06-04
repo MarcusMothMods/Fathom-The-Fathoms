@@ -1,0 +1,39 @@
+﻿{
+  "itemNameKey": "FTF.nematodes.name",
+  "itemDescriptionKey": "FTF.nematodes.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_nematodes",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 125,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 5.5,
+  "dimensions": [
+	"X"
+  ],
+  "zonesFoundIn": "TWISTED_STRAND",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 1,
+  "maxSizeCentimeters": 2,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 2,
+  "perSpotMax": 6,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "MANGROVE",
+  "harvestDifficulty": "EASY",
+  "aberrations": ["FTF.nematodesA1"],
+  "canBeCaughtByRod": false,
+  "canBeCaughtByNet": true
+}
+

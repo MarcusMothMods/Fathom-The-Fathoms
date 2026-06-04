@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": -386.121,
+        "y": 0.0,
+        "z": 558.321
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "FTF.triops" ],
+    "startStock": 4,
+    "maxStock": 10,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

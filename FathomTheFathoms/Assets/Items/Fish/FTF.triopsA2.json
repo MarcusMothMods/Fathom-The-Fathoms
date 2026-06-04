@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "FTF.triopsA2.name",
+  "itemDescriptionKey": "FTF.triopsA2.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_sickeningvisage",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 25,
+  "dimensions": [
+	"X"
+  ],
+  "zonesFoundIn": "TWISTED_STRAND",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 1,
+  "maxSizeCentimeters": 2,
+  "harvestMinigameType": "FISHING_DIAMOND",
+  "perSpotMin": 2,
+  "perSpotMax": 10,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "MANGROVE",
+  "harvestDifficulty": "EASY",
+  "isAberration": true,
+  "nonAberrationParent": "FTF.triops",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

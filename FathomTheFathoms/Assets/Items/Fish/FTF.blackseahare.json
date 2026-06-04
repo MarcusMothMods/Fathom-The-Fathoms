@@ -1,0 +1,39 @@
+﻿{
+  "itemNameKey": "FTF.blackseahare.name",
+  "itemDescriptionKey": "FTF.blackseahare.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "fathomthefathoms_blackseahare",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 125,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 8.4,
+  "dimensions": [
+	"XXX"
+  ],
+  "zonesFoundIn": "GALE_CLIFFS",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 15,
+  "maxSizeCentimeters": 30,
+  "harvestMinigameType": "FISHING_BALL_CATCHER",
+  "perSpotMin": 1,
+  "perSpotMax": 3,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "HARD",
+  "aberrations": ["FTF.blackseahareA1"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": false
+}
+

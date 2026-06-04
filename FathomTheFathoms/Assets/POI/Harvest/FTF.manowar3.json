@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 80.2609,
+        "y": 0.0,
+        "z": 519.157
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "FTF.manowar" ],
+    "startStock": 3,
+    "maxStock": 6,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}
