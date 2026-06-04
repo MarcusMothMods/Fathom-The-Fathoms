@@ -1,0 +1,9 @@
+{
+	"Author": "Marcusmoth",
+	"Name": "Winch Mod Template",
+	"ModGUID": "Marcusmoth.FathomTheFathoms",
+	"Version": "0.0.1",
+	"ModAssembly": "FathomTheFathoms.dll",
+	"MinWinchVersion": "0.6.2",
+	"Entrypoint": "FathomTheFathoms.Loader/Initialize"
+}

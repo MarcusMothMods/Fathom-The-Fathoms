@@ -1,0 +1,10 @@
+D:\SteamLibrary\steamapps\common\DREDGE\Mods\Marcusmoth.FathomTheFathoms\mod_meta.json
+D:\SteamLibrary\steamapps\common\DREDGE\Mods\Marcusmoth.FathomTheFathoms\FathomTheFathoms.dll
+D:\SteamLibrary\steamapps\common\DREDGE\Mods\Marcusmoth.FathomTheFathoms\FathomTheFathoms.pdb
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.csproj.AssemblyReference.cache
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.AssemblyInfoInputs.cache
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.AssemblyInfo.cs
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.csproj.CoreCompileInputs.cache
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.dll
+D:\My Downloadies!\MarcusDredgeMods-main\MarcusDredgeMods-main\FathomTheFathoms\obj\Debug\FathomTheFathoms.pdb
