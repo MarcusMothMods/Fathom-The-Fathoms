@@ -1,3 +1,5 @@
+This source code may be broken, i'm no coder and this is my first time using github, i think i got everything but i'm not fully sure.
+
 <center>
 
 ![Fathom The Fathoms](https://raw.githubusercontent.com/MarcusMothMods/Fathom-The-Fathoms/refs/heads/main/fathomtrailer.jpg)
